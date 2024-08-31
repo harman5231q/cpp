@@ -1,0 +1,6 @@
+ 1023 apple 50 4
+ 1456 mango 120 9
+ 1234 rice 140 20
+ 1029 potato 22 2
+ 564 loki 65 4
+ 635 ginger 210 9
